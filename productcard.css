@@ -1,0 +1,93 @@
+body {
+  background-color: lightgray;
+}
+
+/* same for all products */
+h1 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Product 1 */
+/* div */
+.cam {
+  width: 30vw;
+  background-color: black;
+  margin: 30px auto;
+  padding: 30px 30px 60px;
+  text-align: center;
+}
+
+.came {
+  width: 175px;
+  height: 175px;
+  border-radius: 100%;
+}
+
+/* Product 2 */
+/* div 2 */
+.hphn {
+  width: 30vw;
+  background-color: black;
+  margin: 30px auto;
+  padding: 30px 30px 60px; /* (Top, Left/Right, Bottom) */
+  text-align: center;
+}
+
+/* image */
+.hp {
+  width: 140px;
+  height: 140px;
+  border-radius: 10%;
+}
+
+/* Product 3 */
+/* div */
+.gear {
+  width: 30vw;
+  background-color: black;
+  margin: 30px auto;
+  padding: 30px;
+  text-align: center;
+}
+
+/* image */
+.pod {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+/* Product 4 */
+/* div */
+.lens {
+  width: 30vw;
+  background-color: black;
+  margin: 30px auto;
+  padding: 30px;
+  text-align: center;
+}
+
+/* image */
+.camlens {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+/* same for all descriptions */
+p {
+  color: lightcyan;
+  font-size: medium;
+}
+
+/* same for all products */
+.price {
+  color: #10b981;
+}
+
+/* same for all products */
+.btn {
+  background-color: #2563eb;
+  color: #fff;
+  padding: 8px 16px;
+}
